@@ -1,3 +1,5 @@
+2017.11.28调整了部分样式
+
 这是一套适合显示中文文章的CSS，适合直接使用markdown写文章的项目。
 
 [主页](https://xugy0926.github.io/chinese-markdown-css/)
@@ -7,7 +9,7 @@
 首先在head中引用chinese-article.css
 
 ```
-<link rel="stylesheet" href="./public/css/chinese-article.css"/> 
+<link rel="stylesheet" href="./public/css/chinese-article.css"/>
 ```
 
 之后需要在文章的最外层div标签引入Class
